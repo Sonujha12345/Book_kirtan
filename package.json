@@ -1,0 +1,14 @@
+{
+  "name": "book_kirtan",
+  "version": "1.0.0",
+  "description": "This is book_kirtan project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sonu kumar Jha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
